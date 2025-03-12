@@ -1,0 +1,22 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.0.0.2
+gem5 compiled Oct 18 2022 00:41:42
+gem5 started Nov  7 2024 02:56:24
+gem5 executing on e5-cse-135-08.cse.psu.edu, pid 1072028
+command line: /home/other/CSE530-FA2022/gem5/build_a4/build/X86/gem5.opt --outdir=/home/grads/aaw5833/assignment4/cse530_a4/m5out_Bubblesort/tournament_96_5 --redirect-stdout --redirect-stderr /home/grads/aaw5833/assignment4/cse530_a4/cse530_a4_sys_config.py --cse530-core-config=tournament_96_5 --binfile=/home/grads/aaw5833/assignment4/cse530_a4/benchmarks/stanford/Bubblesort --binargs '' --l1i_size=4kB --l1d_size=4kB --l2_size=32kB
+
+Global frequency set at 1000000000000 ticks per second
+Beginning simulation!
+-50000
+-49783
+-49692
+-49678
+-49470
+-49442
+-49423
+-49393
+-49388
+-49184
+Exiting @ tick 8238336000 because exiting with last active thread context
